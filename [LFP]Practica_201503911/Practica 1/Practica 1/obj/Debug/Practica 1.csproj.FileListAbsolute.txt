@@ -1,0 +1,19 @@
+C:\Users\asddd\Desktop\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\asddd\Desktop\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\asddd\Desktop\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\asddd\Desktop\Practica 1\Practica 1\obj\Debug\Practica 1.csprojResolveAssemblyReference.cache
+C:\Users\asddd\Desktop\Practica 1\Practica 1\obj\Debug\Practica_1.VP502.resources
+C:\Users\asddd\Desktop\Practica 1\Practica 1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\asddd\Desktop\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.GenerateResource.Cache
+C:\Users\asddd\Desktop\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\asddd\Desktop\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\obj\Debug\Practica 1.csprojAssemblyReference.cache
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\obj\Debug\Practica_1.VP502.resources
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.GenerateResource.cache
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\asddd\OneDrive\Escritorio\clases\Lenguajes\[LFP]Practica_201503911\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
